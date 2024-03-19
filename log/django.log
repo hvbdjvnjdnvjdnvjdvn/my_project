@@ -1,0 +1,12 @@
+Watching for file changes with StatReloader
+"GET /prefix/about HTTP/1.1" 301 0
+"GET /prefix/about/ HTTP/1.1" 200 27
+"GET /prefix/about/ HTTP/1.1" 200 27
+"GET /prefix HTTP/1.1" 301 0
+"GET /prefix/ HTTP/1.1" 200 13
+D:\python-обучение-4\project\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\python-обучение-4\project\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+D:\python-обучение-4\project\myproject\myproject\settings.py changed, reloading.
